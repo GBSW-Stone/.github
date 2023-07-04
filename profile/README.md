@@ -108,4 +108,4 @@
 
 ## Preview
 
-### [Github.io 페이지](https://github.com/GBSW-Stone)
+### [Github.io 페이지](https://github.com/GBSW-Stone.github.io)

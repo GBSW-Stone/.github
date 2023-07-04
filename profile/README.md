@@ -15,6 +15,7 @@
 (팀장), 디자인, 프론트 보조 문서 관리 및 발표 | <a href="https://github.com/Takoyaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 * -변예준 
 (팀원) 프론트 및 백엔드 개발 및 DB 서버 구축 관리 총괄 | <a href="https://github.com/yejun178" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+ <img width="100" alt="7" src="https://github.com/GBSW-Stone/.github/assets/64297220/6f1ca425-c28c-4781-b961-8da938fc7229">
  <img width="100" alt="7" src="https://github.com/GBSW-Stone/.github/assets/64297220/6c3cebe4-dfbc-4a49-9843-1590a6ee0abe">
 
 ### 사용기술

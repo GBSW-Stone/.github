@@ -59,7 +59,7 @@
 ## 프로젝트 상세 소개
 #### 로그인 & 회원가입
 <p align="center">
-  <img width="280" alt="7" src="[](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN4dWZ3YXEwY2U1NGQzZmI3cnFtemx0bTAwY2N1Y3puYWJ2OTgxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/atouAd0X6OWMtwBn14/giphy.gif)">
+  <img width="280" alt="7" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN4dWZ3YXEwY2U1NGQzZmI3cnFtemx0bTAwY2N1Y3puYWJ2OTgxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/atouAd0X6OWMtwBn14/giphy.gif]">
   &nbsp;&nbsp;&nbsp;
   <img width="280" alt="7" src="https://user-images.githubusercontent.com/71811780/108112315-44d5ab80-70d9-11eb-8595-eda8af5d9d76.gif">
 </p>

@@ -61,7 +61,7 @@
 <p align="center">
   <img width="280" alt="7" src="https://github.com/GBSW-Stone/.github/assets/64297220/d1f9686a-251e-451b-86e5-bcce1d09716d">
   &nbsp;&nbsp;&nbsp;
-  <img width="280" alt="7" src="https://github.com/GBSW-Stone/.github/assets/64297220/dd445e16-375e-49fd-b1d3-996ff954e838">
+  <img width="280" alt="7" src="https://github.com/GBSW-Stone/.github/assets/64297220/693d0cd2-1e2a-4be4-ba1f-d61ff6082a13">
 </p>
 
 ### 데이터베이스 구조

@@ -57,7 +57,12 @@
  + 백엔드 및 API 개발 및 보안 점검 (6/1 ~ 6/31)
  + 서버 구축 및 배포 오류 수정 및 디버깅 (7/1 ~)
 ## 프로젝트 상세 소개
-
+#### 로그인 & 회원가입
+<p align="center">
+  <img width="280" alt="7" src="https://user-images.githubusercontent.com/71811780/108114998-e01c5000-70dc-11eb-97d2-de160f368d5a.gif">
+  &nbsp;&nbsp;&nbsp;
+  <img width="280" alt="7" src="https://user-images.githubusercontent.com/71811780/108112315-44d5ab80-70d9-11eb-8595-eda8af5d9d76.gif">
+</p>
 ### 데이터베이스 구조
 #### 유저 테이블
 | Field | data type | explanation | properties |

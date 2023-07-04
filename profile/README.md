@@ -7,9 +7,9 @@
 ### 주제 및 선정 배경
 테스트글 작성중..
 ## Member
-* 김창환 - <img src="https://avatars.githubusercontent.com/u/92567259?v=4" />
+* 김창환 -
 (팀장), 디자인, 프론트 보조 문서 관리 및 발표 | <a href="https://github.com/Takoyaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-* 변예준 - <img src="https://avatars.githubusercontent.com/u/64297220?v=4" />
+* 변예준 - 
 (팀원) 프론트 및 백엔드 개발 및 DB 서버 구축 관리 총괄 | <a href="https://github.com/yejun178" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 

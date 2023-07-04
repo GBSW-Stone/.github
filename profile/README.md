@@ -63,6 +63,7 @@
   &nbsp;&nbsp;&nbsp;
   <img width="280" alt="7" src="https://user-images.githubusercontent.com/71811780/108112315-44d5ab80-70d9-11eb-8595-eda8af5d9d76.gif">
 </p>
+
 ### 데이터베이스 구조
 #### 유저 테이블
 | Field | data type | explanation | properties |

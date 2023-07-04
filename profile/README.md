@@ -104,7 +104,7 @@
 | salt | VARCHAR(10) | 입력된 비밀번호와 함께 HASH함수에 넣어 주는 값 | NN |
 
 ## 사용자 수행 흐름도
-
+  <img width="300" alt="7" src="https://github.com/GBSW-Stone/.github/assets/64297220/84597435-37e4-42f1-8309-4d482bb9a0a7">
 
 ## Preview
 

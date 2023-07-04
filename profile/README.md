@@ -58,11 +58,10 @@
  + 서버 구축 및 배포 오류 수정 및 디버깅 (7/1 ~)
 ## 프로젝트 상세 소개
 #### 로그인 & 회원가입
+<p align="center">
   <img width="280" alt="7" src="https://github.com/GBSW-Stone/.github/assets/64297220/d1f9686a-251e-451b-86e5-bcce1d09716d">
   &nbsp;&nbsp;&nbsp;
-  <img width="280" alt="7" src="https://user-images.githubusercontent.com/71811780/108112315-44d5ab80-70d9-11eb-8595-eda8af5d9d76.gif">
-</p>
-
+  <img width="280" alt="7" src="https://github.com/GBSW-Stone/.github/assets/64297220/dd445e16-375e-49fd-b1d3-996ff954e838">
 ### 데이터베이스 구조
 #### 유저 테이블
 | Field | data type | explanation | properties |

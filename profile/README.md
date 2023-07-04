@@ -109,4 +109,3 @@
 ## Preview
 
 ### [Github.io 페이지](https://github.com/GBSW-Stone)
-### [SowonLive 사이트](sowonlive.gbsw.hs.kr)

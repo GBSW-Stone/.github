@@ -6,7 +6,7 @@
 ## 프로젝트 개요
 ### 주제 및 선정 배경
 기숙사 및 학교의 중요 공지나 안내사항을 듣지 못하는 상황이 줄어들어 생활개선 및 선후배 사이의 교류가 활발해지며 나아가 학교의 좋은 분위기의 커뮤니티 형성을 본 프로젝트 목표로 선정하였음.
-## 팀소
+## 팀소개
 * 김창환 -
 (팀장), 디자인, 프론트 보조 문서 관리 및 발표 | <a href="https://github.com/Takoyaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 * 변예준 - 
